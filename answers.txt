@@ -3,3 +3,10 @@ What is the difference between a merge and a rebase?
 A merge simply updates the changes from two repositories as a commit in 
 the branch history while a rebase moves back to a snapshot of the code, 
 resetting the branch history to start at that point.
+
+What is a remote repository?
+
+A remote repository is filesystem that is hosted somewhere on the network 
+or the internet, but not on your local machine. Typically it is hosted on 
+a server accessible to all collaborators of the project. 
+
